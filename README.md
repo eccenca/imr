@@ -1,4 +1,4 @@
-# cmem-plugin-template
+# Intelligent Model Registry (imr)
 
 [![workflow][build-shield-main]][github-actions] [![workflow][build-shield-develop]][github-actions] [![version][version-shield]][changelog] ![python-shield]
 [![eccenca Corporate Memory][cmem-shield]][cmem] [![copier][copier-shield]][copier] 
